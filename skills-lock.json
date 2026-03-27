@@ -5,6 +5,16 @@
       "source": "obra/superpowers",
       "sourceType": "github",
       "computedHash": "efddfd0efbd0e7b5075c5a66ff91a706ac506c88c7b5ddd7fd45a351cb3fe3af"
+    },
+    "chart-visualization": {
+      "source": "bytedance/deer-flow",
+      "sourceType": "github",
+      "computedHash": "3c2878765e0f0dcc4e4a75ab1b80e85f7249b2cedc3e1530ed3dfc16f5395437"
+    },
+    "pua": {
+      "source": "tanweai/pua",
+      "sourceType": "github",
+      "computedHash": "1768c329914062c3add97fa19702ec45ff6fd06f56ce5d0761ef7baf0ad40fc2"
     }
   }
 }
