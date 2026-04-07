@@ -16,15 +16,20 @@
       "sourceType": "github",
       "computedHash": "202da6ad9e3c65949fa70371e89b1f55a1f5bd6d11b20b4491af17de495a0caf"
     },
-    "pua": {
-      "source": "tanweai/pua",
-      "sourceType": "github",
-      "computedHash": "1768c329914062c3add97fa19702ec45ff6fd06f56ce5d0761ef7baf0ad40fc2"
-    },
     "github-repo-search": {
       "source": "yunshu0909/yunshu_skillshub",
       "sourceType": "github",
       "computedHash": ""
+    },
+    "huashu-nuwa": {
+      "source": "alchaincyf/nuwa-skill",
+      "sourceType": "github",
+      "computedHash": "3fb43b7fbb4e8e24e203f7200caeeb5329adee1231e442f4d985f994ff8dee6b"
+    },
+    "pua": {
+      "source": "tanweai/pua",
+      "sourceType": "github",
+      "computedHash": "1768c329914062c3add97fa19702ec45ff6fd06f56ce5d0761ef7baf0ad40fc2"
     }
   }
 }
